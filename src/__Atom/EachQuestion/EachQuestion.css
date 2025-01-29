@@ -1,0 +1,89 @@
+.author{
+    color: #4B4C5F;;
+    font-family: "Kumbh Sans";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    transition: 0.4s;
+}
+.author_plus{
+    color: #1E1F36;
+    font-family: "Kumbh Sans";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    transition: 0.4s;
+
+}
+.qut_div{
+    height: 0px;
+}
+.quoute{
+    color: #787887;
+    font-family: "Kumbh Sans";
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px; 
+    display: none;
+    transition: 0.4s;
+
+}
+.quoute_plus{
+    color: #787887;
+    font-family: "Kumbh Sans";
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px; 
+    display: block;
+    transition: 0.4s;
+
+}
+.txt{
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+.quest{
+    display: flex;
+    align-items: start;
+    border-bottom: 1px  solid #E8E8EA ;
+    width: 100%;
+    justify-content: space-between;
+    padding-bottom: 15px;
+    padding-top: 18px;
+    cursor: pointer;
+    height: auto;
+    transition: 1s;
+}
+/* .quest_plus{
+    display: flex;
+    align-items: start;
+    border-bottom: 1px  solid #E8E8EA ;
+    width: 350px;
+    justify-content: space-between;
+    padding-bottom: 15px;
+    padding-top: 18px;
+    cursor: pointer;
+    height: 80px;
+    transition: 1s;
+
+} */
+.arrow{
+    width: 11px;
+    height: 7px;
+    transition: 0.4s;
+
+}
+.arrow_plus{
+    width: 11px;
+    height: 7px;
+    transform: rotate(-180deg);
+    transition: 0.4s;
+    
+}
