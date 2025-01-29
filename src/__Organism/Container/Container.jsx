@@ -3,7 +3,7 @@ import "./Container.css";
 import Image from "../../assets/Images/Image.png";
 import Cube from "../../assets/Images/cube.svg";
 import Questions from "../../__Molecule/Questions/Questions";
-import HiddenImage from "../../assets/Images/Hidden_Image.svg";
+import HiddenImage from "../../assets/Images/Hidden_image.svg";
 function Container() {
   return (
     <div className="container">
