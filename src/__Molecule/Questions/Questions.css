@@ -16,7 +16,7 @@
     margin-top: 65px;
     margin-bottom: 20px;
 }
-@media (max-width:790px){
+@media (max-width:810px){
     .question_div{
         width: auto;
         display: flex;
