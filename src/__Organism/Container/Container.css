@@ -41,7 +41,7 @@
 .shadow{
     display: none;
 }
-@media (max-width:810px) {
+@media (max-width:880px) {
     .container{
         display: flex;
         flex-direction: column;

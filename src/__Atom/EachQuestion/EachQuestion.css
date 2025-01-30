@@ -7,6 +7,14 @@
     line-height: normal;
     transition: 0.4s;
 }
+.author:hover{
+    color: #F47B56;
+    font-family: "Kumbh Sans";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
 .author_plus{
     color: #1E1F36;
     font-family: "Kumbh Sans";
@@ -61,19 +69,7 @@
     height: auto;
     transition: 1s;
 }
-/* .quest_plus{
-    display: flex;
-    align-items: start;
-    border-bottom: 1px  solid #E8E8EA ;
-    width: 350px;
-    justify-content: space-between;
-    padding-bottom: 15px;
-    padding-top: 18px;
-    cursor: pointer;
-    height: 80px;
-    transition: 1s;
 
-} */
 .arrow{
     width: 11px;
     height: 7px;
